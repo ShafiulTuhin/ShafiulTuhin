@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 <h1 align="center">Hi 👋, I'm Md Shafiul Azam</h1>
 <h3 align="center">A passionate Mern developer from Bangladesh</h3>
 
