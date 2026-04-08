@@ -1,14 +1,23 @@
 <p align="center">
   <img src="./github.png" alt="Banner" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Md Shafiul Azam</h1>
-<h3 align="center">A passionate Mern developer from Bangladesh</h3>
+<h1 align="center">MD Shafiul Azam</h1>
+<h3 align="center">MERN Stack Developer</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shafiul-tuhin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shafiul-tuhin" height="30" width="40" /></a>
-</p>
+### Hi there 👋, I'm Tuhin
+I'm a MERN stack developer in learning mode. ✅  
+- Completed **React**; now learning **Next.js**  
+- Next steps: **Node.js, Express, MongoDB**  
+- Always exploring, building, and improving 🛠️
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.co<img width="2048" height="768" alt="github" src="https://github.com/user-attachments/assets/d4715827-c1e6-4aa4-a70f-b84416811fa2" />
-m/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+- ### 🚀 Skills & Expertise
+- React Core Concepts: **Components, Props, State, Hooks**  
+- **Props Drilling & Lifting State Up** for efficient data flow  
+- **Context API** for global state management  
+- **LocalStorage** for persistent data  
+- **Sorting & Filtering** arrays & data dynamically  
+- **Responsive Design** with Tailwind CSS & DaisyUI  
+- **Fetch API / Data Handling** for dynamic content  
+- **Charting & Visualization** (Recharts, Chart.js)  
+- MERN Stack Basics: **Node.js, Express, MongoDB** (in progress)  
+- Version control: **Git & GitHub workflow**
