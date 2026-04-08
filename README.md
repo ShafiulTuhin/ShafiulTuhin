@@ -1,4 +1,6 @@
-![Banner](./banner.png)
+<p align="center">
+  <img src="./github.png" alt="Banner" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Md Shafiul Azam</h1>
 <h3 align="center">A passionate Mern developer from Bangladesh</h3>
 
