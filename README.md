@@ -8,24 +8,22 @@ I'm a MERN stack developer in learning mode. ✅
 - Next steps: **Node.js, Express, MongoDB**  
 - Always exploring, building, and improving 🛠️
 
-<div class="flex flex-col md:flex-row items-center justify-between bg-white shadow-lg p-6 rounded-xl">
-  
-  <!-- Left: Text with bullet points -->
-  <div class="md:w-1/2 mb-6 md:mb-0">
-    <h2 class="text-2xl font-bold mb-4">Current Activities</h2>
-    <ul class="list-disc list-inside space-y-2 text-gray-700">
-      <li>I am exploring <strong>NEXT.JS</strong>.</li>
-      <li>I’m working on a tourism website.</li>
-      <li>Practicing React hooks and context API.</li>
-      <li>Learning Node, Express, and MongoDB for backend.</li>
-    </ul>
-  </div>
-
-  <!-- Right: Image -->
-  <div class="md:w-1/2 flex justify-center">
-    <img src="./personal.png" alt="Profile Banner" class="rounded-lg shadow-md">
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <h2>Current Activities</h2>
+      <ul>
+        <li>I am exploring <strong>Next.js</strong>.</li>
+        <li>I’m working on a tourism website.</li>
+        <li>Practicing React hooks and Context API.</li>
+        <li>Learning Node, Express, and MongoDB.</li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <img src="./personal.png" alt="Profile Banner" width="250"/>
+    </td>
+  </tr>
+</table>
 <h2>My Skills</h2>
 <table>
   <tr>
