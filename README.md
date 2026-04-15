@@ -63,14 +63,15 @@ I'm a MERN stack developer in learning mode. ✅
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" /><br>
-      Tailwind CSS
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/saadeghi/daisyui/main/logo.svg" width="50" /><br>
-      DaisyUI
-    </td>
+  <td align="center">
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /><br>
+  Tailwind CSS
+</td>
+
+<td align="center">
+  <img src="https://img.daisyui.com/images/daisyui-logo/daisyui-logotype.svg" width="50" /><br>
+  DaisyUI
+</td>
   </tr>
 </table>
 <!-- Social Links Section -->
