@@ -2,23 +2,22 @@
   <img src="./banner.png" alt="Banner" width="100%" />
 </p>
 
-### Hi there 👋, I'm Tuhin
-I'm a MERN stack developer in learning mode. ✅  
-- Completed **React**; now learning **Next.js**  
-- Next steps: **Node.js, Express, MongoDB**  
-- Always exploring, building, and improving 🛠️
+Hi there 👋, I'm Md Shafiul Azam
+
+I'm a Full-Stack Developer from Bangladesh with experience building modern web applications using Typescript, React, Next.js, Node.js, Express.js, MongoDB, and PostgreSQL. I enjoy creating clean, scalable, and user-friendly solutions while continuously expanding my knowledge of web technologies and software development.
 
 <div style="width: 100%;">
   <table width="100%">
     <tr>
       <td width="60%" valign="top">
-        <h2>Current Activities</h2>
-        <ul>
-          <li>I am exploring <strong>Next.js</strong>.</li>
-          <li>I’m working on a tourism website.</li>
-          <li>Practicing React hooks and Context API.</li>
-          <li>Learning Node, Express, and MongoDB.</li>
-        </ul>
+<h2>Current Activities</h2>
+<ul>
+  <li>Building <strong>HireLoop</strong>, a full-stack job portal application.</li>
+  <li>Working with <strong>Next.js, HeroUI, Express.js, and MongoDB</strong>.</li>
+  <li>Creating small projects using <strong>TypeScript</strong> and <strong>PostgreSQL</strong> to expand my full-stack expertise.</li>
+  <li>Implementing authentication, authorization, and RESTful APIs.</li>
+  <li>Continuously enhancing my full-stack development skills.</li>
+</ul>
       </td>
       <td width="40%" align="center">
         <img src="./personal.png" alt="Profile Banner" width="300"/>
