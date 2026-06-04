@@ -18,10 +18,16 @@ I'm a Full-Stack Developer from Bangladesh with experience building modern web a
   <li>Implementing authentication, authorization, and RESTful APIs.</li>
   <li>Continuously enhancing my full-stack development skills.</li>
 </ul>
-      </td>
-      <td width="40%" align="center">
-        <img src="./personal.png" alt="Profile Banner" width="300"/>
-      </td>
+<td width="40%" align="center">
+  <img src="./personal.png" alt="Profile Image" width="220"/>
+
+  <br/><br/>
+
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=shafiul-tuhin&theme=tokyonight&hide_border=true" 
+  alt="GitHub Streak" 
+/>
+</td>
     </tr>
   </table>
 </div>
