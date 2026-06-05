@@ -24,7 +24,7 @@ I'm a Full-Stack Developer from Bangladesh with experience building modern web a
   <br/><br/>
 
 <img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=shafiul-tuhin&theme=tokyonight&hide_border=true" 
+  src="https://github-readme-streak-stats.herokuapp.com?user=ShafiulTuhin&theme=tokyonight&hide_border=true" 
   alt="GitHub Streak" 
 />
 </td>
