@@ -12,8 +12,8 @@ I'm a Full-Stack Developer from Bangladesh with experience building modern web a
       <td width="60%" valign="top">
 <h2>Current Activities</h2>
 <ul>
-  <li>Building <strong>HireLoop</strong>, a full-stack job portal application.</li>
-  <li>Working with <strong>Next.js, HeroUI, Express.js, and MongoDB</strong>.</li>
+  <li>Learning <strong>Prisma</strong></li>
+  <li>Just completed a fullstack product <strong>Gymstructor.</strong> Now searching for improve the Ui and add more functionalities</li>
   <li>Creating small projects using <strong>TypeScript</strong> and <strong>PostgreSQL</strong> to expand my full-stack expertise.</li>
   <li>Implementing authentication, authorization, and RESTful APIs.</li>
   <li>Continuously enhancing my full-stack development skills.</li>
